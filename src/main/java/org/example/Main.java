@@ -5,6 +5,7 @@ import org.apache.spark.sql.Row;
 import org.apache.spark.sql.SparkSession;
 
 import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
         SparkSession spark = SparkSession
